@@ -1,0 +1,5 @@
+tensorflow==2.18.0
+gradio==5.34.2
+librosa==0.10.2
+numpy==1.26.4
+soundfile==0.12.1
